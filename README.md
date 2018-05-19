@@ -8,6 +8,7 @@ Includes jQuery 3.3.1, Bootstrap 4, Google webfont loader.
 **In _config.yml**
 
 `theme-color: ` Use this to set a color in your head metadata for favicons and theme.
+
 `ga-id: ` Place your Google analytics ID here.
 
 
