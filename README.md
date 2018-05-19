@@ -13,7 +13,7 @@ Includes jQuery 3.3.1, Bootstrap 4, Google webfont loader.
 
 ## Page variables of Note
 
-**share-image** is the location of an image that will be used when the url of the page is shared on Facebook or Twitter. Location is already set to img folder in assets, simply write the subpath from there. Example:
+`share-image: ` is the location of an image that will be used when the url of the page is shared on Facebook or Twitter. Location is already set to img folder in assets, simply write the subpath from there. Example:
 
 ```
 ---
