@@ -16,4 +16,4 @@ share-image: max-wirt.jpg
 ---
 ```
 
-In _config.yml, there is a variable `theme-color`. Use this set a color in your head metadata for favicons and theme.
+In _config.yml, there is a variable `theme-color`. Use this to set a color in your head metadata for favicons and theme.
