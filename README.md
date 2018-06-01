@@ -31,4 +31,4 @@ share-image: max-wirt.jpg
 
 Use `{% include video.html ratio="16by9" url="https://www.youtube.com/embed/Sjx9oSJDAVQ" %}` for responsive video embeds.
 
-Works for YouTube and Vimeo videos. `ratio` is the aspect ratio of your video. Can be "1by1", "4by3", "16by9", or "21by9". `url` is the url in the embed code for the video.sincerely productions n' new website
+Works for YouTube and Vimeo videos. `ratio` is the aspect ratio of your video. Can be "1by1", "4by3", "16by9", or "21by9". `url` is the url in the embed code for the video.
